@@ -9,13 +9,19 @@ Models with Accurary
    
 The front end uses the GRU Model which is exported in 'gru_sentiment_model.pkl' and tokenizer in 'tokenizer.pkl'. The server can be started by running 'server.py'
 
+![image](https://github.com/user-attachments/assets/9c026de8-1176-496a-918d-6567af4ca477)
+![image](https://github.com/user-attachments/assets/ab68711e-ec95-4391-b982-54514e1a7f63)
+
+
 ## Tech Stack
 - Machine Learning
   - TensorFlow
   - Scikit learn
   - Python
-- Backend
+- Full-stack
   - FastAPI
+  - React
+  - Tailwind
 
 ## Bidirectional Gated Recurrent Unit Model
 
